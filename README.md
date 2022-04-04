@@ -1,0 +1,3 @@
+# python-videos
+Template for creating videos in Python using matplotlib and ffmpeg.
+Saves the extra step of saving the individual frames and converting them afterwards...
